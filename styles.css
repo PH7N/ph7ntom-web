@@ -3,7 +3,9 @@
 body {
  background-color: gray;
  color: white;
- font-family: Times New Roman, Twelve Point Font, Double Spaced;
+ font-family: 'IBM Plex Sans', sans-serif;
+ text-align: center;
+ font-size: 100px;
 }
 
-/* lazy asf */
+/* lazy asf & unprofessional */

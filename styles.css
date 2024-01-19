@@ -7,7 +7,9 @@ body {
   color: rgb(240, 255, 250);
   font-family: "IBM Plex Sans", sans-serif;
   text-align: center;
-  font-size: 60px;
+  font-size: 4vw;
+  margin: 0;
+  padding: 20px;
 }
 
 /* Keyframes animation */
@@ -40,5 +42,15 @@ body {
 }
 
 #infoss {
-    
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+  max-width: 2500px;
+  margin: 0 auto;
+}
+
+/* Mobile styles */
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 8vw; /* Adjusted font size for better readability on small screens */
+  }
 }

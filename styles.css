@@ -67,11 +67,11 @@ body {
   
   #sourceCode a {
     text-decoration: none;
-    color: rgba(240, 255, 250, 0.7); /* Slightly less grayed-out color */
+    color: rgba(240, 255, 250, 0.7); 
     font-size: 14px;
     transition: color 0.3s ease;
   }
   
   #sourceCode a:hover {
-    color: rgba(206, 244, 255, 1); /* Hover color */
+    color: rgba(206, 244, 255, 1);
   }

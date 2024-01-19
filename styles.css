@@ -57,21 +57,21 @@ body {
 
 /* Styling for the "Source Code" text */
 #sourceCode {
-    position: fixed;
-    bottom: 10px;
-    left: 10px;
-    color: rgba(240, 255, 250, 0.5);
-    font-size: 14px;
-    font-family: "Plus Jakarta Sans", sans-serif;
-  }
-  
-  #sourceCode a {
-    text-decoration: none;
-    color: rgba(240, 255, 250, 0.7); 
-    font-size: 14px;
-    transition: color 0.3s ease;
-  }
-  
-  #sourceCode a:hover {
-    color: rgba(206, 244, 255, 1);
-  }
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  color: rgba(240, 255, 250, 0.5);
+  font-size: 14px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+#sourceCode a {
+  text-decoration: none;
+  color: rgba(240, 255, 250, 0.7);
+  font-size: 14px;
+  transition: color 0.3s ease;
+}
+
+#sourceCode a:hover {
+  color: rgba(206, 244, 255, 1);
+}

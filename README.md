@@ -1,7 +1,7 @@
 # <h1 align="center">PH7NTOM Dev Website</h1>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1196823023320305845/1198263056405385388/waB9u2Z.png?ex=65be446f&is=65abcf6f&hm=36bd0e3a28c5979c321c5f89d4a34ea340f2063664eca63226df5b0565138bdf&" alt="PHANTOM Image">
+  <img src="https://cdn.discordapp.com/attachments/1196823023320305845/1198264336020418712/ePOmq4H.png?ex=65be45a0&is=65abd0a0&hm=1aefa29f557b5734641ebf377bc71ed17c0334f248f2077ec8e6810883b2d844&" alt="PHANTOM Image">
 </p>
 
 ## What is this?

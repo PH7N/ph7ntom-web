@@ -33,4 +33,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://ph7n.github.io/ph7ntom-web/
+Sitemap: https://ph7n.github.io/ph7ntom-web/sitemap.xml

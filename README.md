@@ -28,6 +28,6 @@ My YouTube tag is @PH7NTOM
 
 ## Disclaimer
 
-I am not affiliated with Google/Alphabet (Company), International Business Machines Corporation (Company), tokotype (Person), Discord (Company), or Apache Software Foundation (Non-Profit). It is important to clarify that "Google" and "Youtube" is a trademark owned by Google/Alphabet (Company), "IBM" and "IBM Plex" is a trademark owned by International Business Machines Corporation (Company), "Discord" is a trademark owned by Discord (Company), and "Apache" is a trademark owned by Apache Software Foundation (Non-Profit).
+I am not affiliated with Google/Alphabet (Company), International Business Machines Corporation (Company), tokotype (Company), Discord (Company), or Apache Software Foundation (Non-Profit). It is important to clarify that "Google" and "Youtube" is a trademark owned by Google/Alphabet (Company), "IBM" and "IBM Plex" is a trademark owned by International Business Machines Corporation (Company), "Discord" is a trademark owned by Discord (Company), and "Apache" is a trademark owned by Apache Software Foundation (Non-Profit).
 
 # <h1 align="center">Website made with 💜 by [PH7NTOM](https://ph7n.github.io)</h1>
